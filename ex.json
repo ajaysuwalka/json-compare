@@ -73,7 +73,7 @@
                     "mentions": [
                         {
                             "index": 1,
-                            "value": "2",
+                            "value": "6",
                             "openEnd": ""
                         }
                     ]
@@ -105,7 +105,7 @@
                     "mentions": [
                         {
                             "index": 1,
-                            "value": "2",
+                            "value": "6",
                             "openEnd": ""
                         }
                     ]
@@ -231,6 +231,46 @@
                             "openEnd": ""
                         }
                     ]
+                },
+                {
+                    "index": "3",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "2",
+                            "openEnd": ""
+                        }
+                    ]
+                },
+                {
+                    "index": "4",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "3",
+                            "openEnd": ""
+                        }
+                    ]
+                },
+                {
+                    "index": "5",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "4",
+                            "openEnd": ""
+                        }
+                    ]
+                },
+                {
+                    "index": "6",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "5",
+                            "openEnd": ""
+                        }
+                    ]
                 }
             ]
         },
@@ -257,6 +297,46 @@
                             "openEnd": ""
                         }
                     ]
+                },
+                {
+                    "index": "3",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "3",
+                            "openEnd": ""
+                        }
+                    ]
+                },
+                {
+                    "index": "4",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "4",
+                            "openEnd": ""
+                        }
+                    ]
+                },
+                {
+                    "index": "5",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "5",
+                            "openEnd": ""
+                        }
+                    ]
+                },
+                {
+                    "index": "6",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "6",
+                            "openEnd": ""
+                        }
+                    ]
                 }
             ]
         },
@@ -276,6 +356,46 @@
                 },
                 {
                     "index": "2",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "1",
+                            "openEnd": ""
+                        }
+                    ]
+                },
+                {
+                    "index": "3",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "1",
+                            "openEnd": ""
+                        }
+                    ]
+                },
+                {
+                    "index": "4",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "1",
+                            "openEnd": ""
+                        }
+                    ]
+                },
+                {
+                    "index": "5",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "1",
+                            "openEnd": ""
+                        }
+                    ]
+                },
+                {
+                    "index": "6",
                     "mentions": [
                         {
                             "index": 1,
@@ -307,6 +427,42 @@
                             "value": "INDE"
                         }
                     ]
+                },
+                {
+                    "index": "3",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "INDE"
+                        }
+                    ]
+                },
+                {
+                    "index": "4",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": ""
+                        }
+                    ]
+                },
+                {
+                    "index": "5",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": ""
+                        }
+                    ]
+                },
+                {
+                    "index": "6",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "Affiliation"
+                        }
+                    ]
                 }
             ]
         },
@@ -329,6 +485,42 @@
                         {
                             "index": 1,
                             "value": "6"
+                        }
+                    ]
+                },
+                {
+                    "index": "3",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "6"
+                        }
+                    ]
+                },
+                {
+                    "index": "4",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "64"
+                        }
+                    ]
+                },
+                {
+                    "index": "5",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "64"
+                        }
+                    ]
+                },
+                {
+                    "index": "6",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "Departement"
                         }
                     ]
                 }
@@ -355,6 +547,42 @@
                             "value": "1004"
                         }
                     ]
+                },
+                {
+                    "index": "3",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "1004"
+                        }
+                    ]
+                },
+                {
+                    "index": "4",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "9168"
+                        }
+                    ]
+                },
+                {
+                    "index": "5",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "9394"
+                        }
+                    ]
+                },
+                {
+                    "index": "6",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "XXXX"
+                        }
+                    ]
                 }
             ]
         },
@@ -377,6 +605,42 @@
                         {
                             "index": 1,
                             "value": "216"
+                        }
+                    ]
+                },
+                {
+                    "index": "3",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "216"
+                        }
+                    ]
+                },
+                {
+                    "index": "4",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "2824"
+                        }
+                    ]
+                },
+                {
+                    "index": "5",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "2825"
+                        }
+                    ]
+                },
+                {
+                    "index": "6",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "4683"
                         }
                     ]
                 }
@@ -403,6 +667,42 @@
                             "value": "AFRI"
                         }
                     ]
+                },
+                {
+                    "index": "3",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "AFRI"
+                        }
+                    ]
+                },
+                {
+                    "index": "4",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "CSOU"
+                        }
+                    ]
+                },
+                {
+                    "index": "5",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "PORA"
+                        }
+                    ]
+                },
+                {
+                    "index": "6",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "Pseudo"
+                        }
+                    ]
                 }
             ]
         },
@@ -427,6 +727,42 @@
                             "value": "AFRICA RADIO"
                         }
                     ]
+                },
+                {
+                    "index": "3",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "AFRICA RADIO"
+                        }
+                    ]
+                },
+                {
+                    "index": "4",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "100% SOUVENIRS"
+                        }
+                    ]
+                },
+                {
+                    "index": "5",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "7 RADIO"
+                        }
+                    ]
+                },
+                {
+                    "index": "6",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "AAA"
+                        }
+                    ]
                 }
             ]
         },
@@ -449,6 +785,42 @@
                         {
                             "index": 1,
                             "value": "C"
+                        }
+                    ]
+                },
+                {
+                    "index": "3",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "C"
+                        }
+                    ]
+                },
+                {
+                    "index": "4",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "C"
+                        }
+                    ]
+                },
+                {
+                    "index": "5",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "A"
+                        }
+                    ]
+                },
+                {
+                    "index": "6",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "Statut Médiametrie"
                         }
                     ]
                 }
@@ -477,6 +849,36 @@
                             "openEnd": ""
                         }
                     ]
+                },
+                {
+                    "index": "3",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "AFRICA RADIO",
+                            "openEnd": ""
+                        }
+                    ]
+                },
+                {
+                    "index": "4",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "100% SOUVENIRS",
+                            "openEnd": ""
+                        }
+                    ]
+                },
+                {
+                    "index": "5",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "7 RADIO",
+                            "openEnd": ""
+                        }
+                    ]
                 }
             ]
         },
@@ -499,6 +901,33 @@
                         {
                             "index": 1,
                             "value": "21:13"
+                        }
+                    ]
+                },
+                {
+                    "index": "3",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "21:23"
+                        }
+                    ]
+                },
+                {
+                    "index": "4",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "21:24"
+                        }
+                    ]
+                },
+                {
+                    "index": "5",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "21:25"
                         }
                     ]
                 }
@@ -525,6 +954,33 @@
                             "value": "21:13"
                         }
                     ]
+                },
+                {
+                    "index": "3",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "21:23"
+                        }
+                    ]
+                },
+                {
+                    "index": "4",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "21:24"
+                        }
+                    ]
+                },
+                {
+                    "index": "5",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "21:25"
+                        }
+                    ]
                 }
             ]
         },
@@ -543,6 +999,33 @@
                 },
                 {
                     "index": "2",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "1"
+                        }
+                    ]
+                },
+                {
+                    "index": "3",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "1"
+                        }
+                    ]
+                },
+                {
+                    "index": "4",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "2"
+                        }
+                    ]
+                },
+                {
+                    "index": "5",
                     "mentions": [
                         {
                             "index": 1,
@@ -573,6 +1056,33 @@
                             "value": "1"
                         }
                     ]
+                },
+                {
+                    "index": "3",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "1"
+                        }
+                    ]
+                },
+                {
+                    "index": "4",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "2"
+                        }
+                    ]
+                },
+                {
+                    "index": "5",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "6"
+                        }
+                    ]
                 }
             ]
         },
@@ -597,6 +1107,33 @@
                             "value": "1"
                         }
                     ]
+                },
+                {
+                    "index": "3",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "1"
+                        }
+                    ]
+                },
+                {
+                    "index": "4",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "1"
+                        }
+                    ]
+                },
+                {
+                    "index": "5",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "1"
+                        }
+                    ]
                 }
             ]
         },
@@ -606,6 +1143,78 @@
             "matrices": [
                 {
                     "index": "1",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "1",
+                            "openEnd": ""
+                        }
+                    ]
+                },
+                {
+                    "index": "3",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "1",
+                            "openEnd": ""
+                        }
+                    ]
+                },
+                {
+                    "index": "5",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "1",
+                            "openEnd": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "variableName": "ERR_DUREE",
+            "questionType": 1,
+            "matrices": [
+                {
+                    "index": "2",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "0",
+                            "openEnd": ""
+                        }
+                    ]
+                },
+                {
+                    "index": "4",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "0",
+                            "openEnd": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "variableName": "R5S",
+            "questionType": 1,
+            "matrices": [
+                {
+                    "index": "2",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "1",
+                            "openEnd": ""
+                        }
+                    ]
+                },
+                {
+                    "index": "4",
                     "mentions": [
                         {
                             "index": 1,
@@ -634,7 +1243,7 @@
         "dispositionCode": 0,
         "prevSessionFirstAnsweredQuestion": null,
         "prevSessionLastAnsweredQuestion": null,
-        "lastAnsweredQuestion": "SWITCH",
+        "lastAnsweredQuestion": "STATION",
         "appointmentDate": "0001-01-01T00:00:00",
         "offlineUserId": 0,
         "offlineUserName": null,
@@ -649,6 +1258,6 @@
         "ONBOARD_AUDIENCE": 1,
         "REVEIL": 1,
         "BOUCLE_MOMENT": 1,
-        "BOUCLE_AUDIENCE": 2
+        "BOUCLE_AUDIENCE": 6
     }
 }
