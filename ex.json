@@ -1,0 +1,654 @@
+{
+    "quotas": [],
+    "answers": [
+        {
+            "variableName": "JOURVEILLE",
+            "questionType": 12,
+            "matrices": [
+                {
+                    "index": "1",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "3",
+                            "openEnd": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "variableName": "DEP",
+            "questionType": 6,
+            "matrices": [
+                {
+                    "index": "1",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "75",
+                            "openEnd": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "variableName": "REVEIL",
+            "questionType": 9,
+            "matrices": [
+                {
+                    "index": "1",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "21:11"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "variableName": "MOMENT",
+            "questionType": 1,
+            "matrices": [
+                {
+                    "index": "1",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "1",
+                            "openEnd": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "variableName": "BOUCLEENCOURS",
+            "questionType": 1,
+            "matrices": [
+                {
+                    "index": "1",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "2",
+                            "openEnd": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "variableName": "NUMMOMENT",
+            "questionType": 1,
+            "matrices": [
+                {
+                    "index": "1",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "1",
+                            "openEnd": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "variableName": "NUMMAXBOUCLE",
+            "questionType": 1,
+            "matrices": [
+                {
+                    "index": "1",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "2",
+                            "openEnd": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "variableName": "BOUCLEAVANT",
+            "questionType": 1,
+            "matrices": [
+                {
+                    "index": "1",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "0",
+                            "openEnd": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "variableName": "BOUCLEPENDANT",
+            "questionType": 1,
+            "matrices": [
+                {
+                    "index": "1",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "0",
+                            "openEnd": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "variableName": "DEPARTEMENT",
+            "questionType": 7,
+            "matrices": [
+                {
+                    "index": "1",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "75",
+                            "openEnd": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "variableName": "TXT_MOMENT",
+            "questionType": 1,
+            "matrices": [
+                {
+                    "index": "1",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "1",
+                            "openEnd": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "variableName": "ICONE_MOMENT",
+            "questionType": 1,
+            "matrices": [
+                {
+                    "index": "1",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "1",
+                            "openEnd": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "variableName": "M1",
+            "questionType": 1,
+            "matrices": [
+                {
+                    "index": "1",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "1",
+                            "openEnd": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "variableName": "NBM1",
+            "questionType": 1,
+            "matrices": [
+                {
+                    "index": "1",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "0",
+                            "openEnd": ""
+                        }
+                    ]
+                },
+                {
+                    "index": "2",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "1",
+                            "openEnd": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "variableName": "NUMLOOP",
+            "questionType": 1,
+            "matrices": [
+                {
+                    "index": "1",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "1",
+                            "openEnd": ""
+                        }
+                    ]
+                },
+                {
+                    "index": "2",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "2",
+                            "openEnd": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "variableName": "REPORTMOMENT",
+            "questionType": 1,
+            "matrices": [
+                {
+                    "index": "1",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "1",
+                            "openEnd": ""
+                        }
+                    ]
+                },
+                {
+                    "index": "2",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "1",
+                            "openEnd": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "variableName": "STATION_AFFILIATION",
+            "questionType": 28,
+            "matrices": [
+                {
+                    "index": "1",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": ""
+                        }
+                    ]
+                },
+                {
+                    "index": "2",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "INDE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "variableName": "STATION_DEPARTEMENT",
+            "questionType": 28,
+            "matrices": [
+                {
+                    "index": "1",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "64"
+                        }
+                    ]
+                },
+                {
+                    "index": "2",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "6"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "variableName": "STATION_IDENTIFIANT",
+            "questionType": 28,
+            "matrices": [
+                {
+                    "index": "1",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "9394"
+                        }
+                    ]
+                },
+                {
+                    "index": "2",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "1004"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "variableName": "STATION_INTERNALID",
+            "questionType": 28,
+            "matrices": [
+                {
+                    "index": "1",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "2825"
+                        }
+                    ]
+                },
+                {
+                    "index": "2",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "216"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "variableName": "STATION_PSEUDO",
+            "questionType": 28,
+            "matrices": [
+                {
+                    "index": "1",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "PORA"
+                        }
+                    ]
+                },
+                {
+                    "index": "2",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "AFRI"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "variableName": "STATION_STATION",
+            "questionType": 28,
+            "matrices": [
+                {
+                    "index": "1",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "7 RADIO"
+                        }
+                    ]
+                },
+                {
+                    "index": "2",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "AFRICA RADIO"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "variableName": "STATION_STATUT_MÉDIAMETRIE",
+            "questionType": 28,
+            "matrices": [
+                {
+                    "index": "1",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "A"
+                        }
+                    ]
+                },
+                {
+                    "index": "2",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "C"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "variableName": "STATIONNEXT",
+            "questionType": 6,
+            "matrices": [
+                {
+                    "index": "1",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "7 RADIO",
+                            "openEnd": ""
+                        }
+                    ]
+                },
+                {
+                    "index": "2",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "AFRICA RADIO",
+                            "openEnd": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "variableName": "HDEB2",
+            "questionType": 9,
+            "matrices": [
+                {
+                    "index": "1",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "21:12"
+                        }
+                    ]
+                },
+                {
+                    "index": "2",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "21:13"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "variableName": "HFIN2",
+            "questionType": 9,
+            "matrices": [
+                {
+                    "index": "1",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "21:12"
+                        }
+                    ]
+                },
+                {
+                    "index": "2",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "21:13"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "variableName": "DYNAMIC_DROP_DOWN_LOCALISATION",
+            "questionType": 2,
+            "matrices": [
+                {
+                    "index": "1",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "1"
+                        }
+                    ]
+                },
+                {
+                    "index": "2",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "1"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "variableName": "DYNAMIC_DROP_DOWN_SUPPORT",
+            "questionType": 2,
+            "matrices": [
+                {
+                    "index": "1",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "1"
+                        }
+                    ]
+                },
+                {
+                    "index": "2",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "1"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "variableName": "DYNAMIC_DROP_DOWN_CASQUE",
+            "questionType": 2,
+            "matrices": [
+                {
+                    "index": "1",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "1"
+                        }
+                    ]
+                },
+                {
+                    "index": "2",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "1"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "variableName": "SWITCH",
+            "questionType": 3,
+            "matrices": [
+                {
+                    "index": "1",
+                    "mentions": [
+                        {
+                            "index": 1,
+                            "value": "1",
+                            "openEnd": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "hasCompletionQuestion": null,
+    "respondent": {
+        "id": "",
+        "respondentId": 1041453098,
+        "simulated": true,
+        "isNew": true,
+        "seed": 1041453098,
+        "email": null,
+        "phone": null,
+        "timeZone": null,
+        "pin": null,
+        "language": "en",
+        "ignoreForcedQuit": true,
+        "sessionStartTime": "2024-07-17T15:38:43.0432662Z",
+        "dispositionCode": 0,
+        "prevSessionFirstAnsweredQuestion": null,
+        "prevSessionLastAnsweredQuestion": null,
+        "lastAnsweredQuestion": "SWITCH",
+        "appointmentDate": "0001-01-01T00:00:00",
+        "offlineUserId": 0,
+        "offlineUserName": null,
+        "ipAddress": "10.212.134.28",
+        "panelistId": 0,
+        "sampleId": 0,
+        "panelistPoints": null,
+        "accessCount": 1,
+        "inputAccess": "LoggedInRespondentInput"
+    },
+    "matrixByBlockName": {
+        "ONBOARD_AUDIENCE": 1,
+        "REVEIL": 1,
+        "BOUCLE_MOMENT": 1,
+        "BOUCLE_AUDIENCE": 2
+    }
+}
